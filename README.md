@@ -19,7 +19,7 @@ This project contains an **interactive Power BI dashboard** for analyzing sales 
 
 ## 📈 Key Insights  
 - **Technology** leads in total sales across all regions.  
-- **Middle-aged customers** form the largest segment (~38.7%).  
+- **Middle-aged customers** are the largest buying group (~38.7%).  
 - **Furniture & Office Supplies** contribute significant sales but with different profit margins.  
 - Both **Online** and **Offline** sales channels show distinct performance patterns.  
 
@@ -38,9 +38,4 @@ This project contains an **interactive Power BI dashboard** for analyzing sales 
 1. Clone this repository.  
 2. Open `Sales Data.pbix` in **Power BI Desktop**.  
 3. Explore filters for Region, Age, and Order Date.  
-4. Interact with charts for deep-dive analysis.  
-
-## ✨ Future Enhancements  
-- Add **trend analysis** by year/quarter.  
-- Include **forecasting models** for sales prediction.  
-- Build **drill-through reports** for product-level insights.  
+4. Interact with charts for deep-dive analysis.
